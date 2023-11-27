@@ -1,5 +1,5 @@
 # Enough
-[![Hits](https://hits.sh/github.com/tingirifistik/Enough-Reborn.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough-Reborn/)
+[![Hits](https://github.com/Onurkisayol0/onurkis0.git)
 
 <img src=https://github-production-user-asset-6210df.s3.amazonaws.com/51286195/262319981-f320a27b-dbf4-42ea-b428-503364d22012.PNG height="200px" width="400px"/>
 <img src=https://user-images.githubusercontent.com/51286195/209442235-7069b8e7-b3f3-4b70-82cb-a86014836be0.png height="200px" width="400px"/>
