@@ -51,7 +51,7 @@ class SendSms():
             else:
                 raise
         except:
-            print(f"{Fore.LIGHTRED_EX}[-] {Style.RESET_ALL}Başarısız! {self.phone} --> wmf.com.tr")
+            print(f"{Fore.LIGHTRED_EX}[-] {Style.RESET_ALL}Gönderemedim amk {self.phone} --> wmf.com.tr")
     
     
     #bim
@@ -64,7 +64,7 @@ class SendSms():
             else:
                 raise
         except:
-            print(f"{Fore.LIGHTRED_EX}[-] {Style.RESET_ALL}Başarısız! {self.phone} --> bim.veesk.net")
+            print(f"{Fore.LIGHTRED_EX}[-] {Style.RESET_ALL}Gönderemedim amk {self.phone} --> bim.veesk.net")
 
 
     #englishhome.com
@@ -78,7 +78,7 @@ class SendSms():
             else:
                 raise
         except:
-            print(f"{Fore.LIGHTRED_EX}[-] {Style.RESET_ALL}Başarısız! {self.phone} --> englishhome.com")
+            print(f"{Fore.LIGHTRED_EX}[-] {Style.RESET_ALL}Gönderemedim amk {self.phone} --> englishhome.com")
     
 
     #mopas.com.tr
@@ -93,7 +93,7 @@ class SendSms():
             else:
                 raise
         except:
-            print(f"{Fore.LIGHTRED_EX}[-] {Style.RESET_ALL}Başarısız! {self.phone} --> mopas.com.tr")
+            print(f"{Fore.LIGHTRED_EX}[-] {Style.RESET_ALL} Göndermedim amk{self.phone} --> mopas.com.tr")
             
 
     #icq.net
@@ -108,7 +108,7 @@ class SendSms():
             else:
                 raise
         except:
-            print(f"{Fore.LIGHTRED_EX}[-] {Style.RESET_ALL}Başarısız! {self.phone} --> u.icq.net")
+            print(f"{Fore.LIGHTRED_EX}[-] {Style.RESET_ALL}Göndermedim amk! {self.phone} --> u.icq.net")
           
 
     #suiste.com
